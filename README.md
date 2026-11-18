@@ -44,8 +44,8 @@
 ## `$ which tools`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,cpp,js,php,linux,docker,bash,git&theme=dark">
-  <img alt="Python, C, C++, JavaScript, PHP, Linux, Docker, Bash, Git" src="https://skillicons.dev/icons?i=py,c,cpp,js,php,linux,docker,bash,git&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cc%2Ccpp%2Cjs%2Cphp%2Clinux%2Cdocker%2Cbash%2Cgit&theme=dark">
+  <img alt="Python, C, C++, JavaScript, PHP, Linux, Docker, Bash, Git" src="https://skillicons.dev/icons?i=py%2Cc%2Ccpp%2Cjs%2Cphp%2Clinux%2Cdocker%2Cbash%2Cgit&theme=light">
 </picture>
 <br><br>
 
