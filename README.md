@@ -27,6 +27,7 @@
 
 | When | Contest | Stage | Team | Result | Mode |
 |:--|:--|:--|:--|:--|:--|
+| 2026.11 | **Layer7 CTF 2026** | Individual · General division (standing at contest end) | — | **#5** / 242<br><sub>15779.83 pts · 14/18 solved</sub> | AI runner + interactive |
 | 2026.11 | **WHITEHAT 2026** | Quals · Defense track | HamBurGer | **#10** / 69<br><sub>1,510 pts · 16/16 solved</sub> | AI runner + interactive |
 | 2026.09 | **DFC 2026 (Digital Forensics Challenge)** | Problem solving · Public sector #10/19 | DIDC | **#51** / 125<br><sub>2657.56 pts</sub> | AI runner (draft) + team review |
 | 2026.08 | **CCE 2026** | Quals | HamBurGer | **#31** / 77<br><sub>2,599 pts · 10/21 solved</sub> | AI runner + interactive |
@@ -39,7 +40,7 @@
 |:--|:--|:--|:--|:--|:--|
 | [`GHSA-rhc2-22vx-4qpg`](https://github.com/OctoPrint/OctoPrint/security/advisories/GHSA-rhc2-22vx-4qpg) | [OctoPrint](https://github.com/OctoPrint/OctoPrint) | Classic Webcam snapshot credentials are returned by /api/settings to users without the SETTINGS permission | CWE-200 | Low | ✅ Published |
 
-> 🔒 **+18 more** in coordinated disclosure — targets and details stay hidden until each advisory is published.
+> 🔒 **+22 more** in coordinated disclosure — targets and details stay hidden until each advisory is published.
 
 ## `$ which tools`
 
