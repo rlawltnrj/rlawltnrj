@@ -40,7 +40,7 @@
 |:--|:--|:--|:--|:--|:--|
 | [`GHSA-rhc2-22vx-4qpg`](https://github.com/OctoPrint/OctoPrint/security/advisories/GHSA-rhc2-22vx-4qpg) | [OctoPrint](https://github.com/OctoPrint/OctoPrint) | Classic Webcam snapshot credentials are returned by /api/settings to users without the SETTINGS permission | CWE-200 | Low | ✅ Published |
 
-> 🔒 **+24 more** in coordinated disclosure — targets and details stay hidden until each advisory is published.
+> 🔒 **+19 more** in coordinated disclosure — targets and details stay hidden until each advisory is published.
 
 ## `$ which tools`
 
