@@ -6,7 +6,7 @@
 </picture>
 
 <a href="https://hamburger-cdv.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-hamburger--cdv.pages.dev-6b2fd6?style=for-the-badge&logo=cloudflarepages&logoColor=white"></a>
-<a href="https://dreamhack.io/users/92742"><img alt="Dreamhack" src="https://img.shields.io/badge/dreamhack-339_solved-160b2a?style=for-the-badge"></a>
+<a href="https://dreamhack.io/users/92742"><img alt="Dreamhack" src="https://img.shields.io/badge/dreamhack-340_solved-160b2a?style=for-the-badge"></a>
 <a href="https://github.com/OctoPrint/OctoPrint/security/advisories/GHSA-rhc2-22vx-4qpg"><img alt="Advisories" src="https://img.shields.io/badge/advisories-1_published-1ec8e6?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
@@ -14,7 +14,7 @@
 ## `$ cat about.txt`
 
 - 🍔 **HamBurGer** — CTF player & open-source vulnerability researcher
-- 🧩 Rev · Web · Pwn · Crypto — **339** challenges solved on [Dreamhack](https://dreamhack.io/users/92742) (42 Diamond-tier)
+- 🧩 Rev · Web · Pwn · Crypto — **340** challenges solved on [Dreamhack](https://dreamhack.io/users/92742) (42 Diamond-tier)
 - 🔍 Hunting bugs in open-source projects and reporting them through GitHub private vulnerability reporting
 - 🤖 Built my own **AI orchestration harness** for CTF — triage → recon → analysis → exploit → verify, run both as auto-solve runners and interactively
 
@@ -27,6 +27,7 @@
 
 | When | Contest | Stage | Team | Result | Mode |
 |:--|:--|:--|:--|:--|:--|
+| 2026.11 | **N0v4CTF 2026** | Online · solo team · standing during the contest (Nov 28, 21:21 KST) | HamBurGer | **#4** / 384<br><sub>5,151 pts · 48/49 solved</sub> | AI runner + interactive |
 | 2026.11 | **Layer7 CTF 2026** | Individual · General division (standing at contest end) | — | **#5** / 242<br><sub>15779.83 pts · 14/18 solved</sub> | AI runner + interactive |
 | 2026.11 | **WHITEHAT 2026** | Quals · Defense track | HamBurGer | **#10** / 69<br><sub>1,510 pts · 16/16 solved</sub> | AI runner + interactive |
 | 2026.09 | **DFC 2026 (Digital Forensics Challenge)** | Problem solving · Public sector #10/19 | DIDC | **#51** / 125<br><sub>2657.56 pts</sub> | AI runner (draft) + team review |
